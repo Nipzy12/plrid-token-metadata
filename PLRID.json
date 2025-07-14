@@ -1,0 +1,13 @@
+{
+  "name": "Palmora ID",
+  "symbol": "PLRID",
+  "address": "ftai5jMXuAjtSJvsGCPmbR1icrVPJ3Li4yQcdzcpump",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/KOMH5ms.png",
+  "tags": ["memecoin", "solana", "community"],
+  "extensions": {
+    "website": "https://palmora.netlify.app",
+    "twitter": "https://x.com/PalmoraToken",
+    "description": "Palmora ID (PLRID) is a community-powered memecoin on Solana, inspired by tropical vibes, fast trades, and degen culture."
+  }
+}
